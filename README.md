@@ -19,7 +19,6 @@ make sure to insert the arguments, maximum number, numbe of threads, buffer size
 
 
 
-
 ## IDE
 Written and compiled in Visual Studio 2017
 
